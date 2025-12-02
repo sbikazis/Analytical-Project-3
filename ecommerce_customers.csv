@@ -1,0 +1,16 @@
+CustomerID,VisitDate,ProductViewed,TimeOnPage,DeviceType,isNewCustomer,MadePurchase
+101,2023-02-01,Shoes,120,Mobile,Yes,1
+102,2023-02-01,Watch,90,Desktop,No,0
+103,2023-02-01,Bag,60,Desktop,Yes,1
+104,2023-02-02,T-Shirt,180,Mobile,No,0
+105,2023-02-02,Shoes,210,Mobile,No,1
+106,2023-02-02,Watch,45,Tablet,Yes,0
+107,2023-02-03,Shoes,200,Desktop,Yes,1
+108,2023-02-03,T-Shirt,130,Mobile,No,0
+109,2023-02-03,Bag,50,Mobile,Yes,0
+110,2023-02-04,Watch,190,Desktop,No,1
+111,2023-02-04,Shoes,220,Mobile,Yes,1
+112,2023-02-04,T-Shirt,100,Tablet,No,0
+113,2023-02-05,Bag,70,Mobile,Yes,1
+114,2023-02-05,Watch,85,Desktop,No,0
+115,2023-02-05,Shoes,160,Mobile,No,1
